@@ -6,5 +6,6 @@ import (
 
 func main() {
 
-	View.StartGui2();
+
+	View.StartGui2()
 }

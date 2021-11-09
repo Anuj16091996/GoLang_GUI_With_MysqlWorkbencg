@@ -10,6 +10,7 @@ require (
 
 require (
 	github.com/gopherjs/gopherjs v0.0.0-20190411002643-bd77b112433e // indirect
+	github.com/lib/pq v1.10.3 // indirect
 	github.com/therecipe/qt v0.0.0-20200904063919-c0c124a5770d // indirect
 	golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13 // indirect
 	gopkg.in/Knetic/govaluate.v3 v3.0.0 // indirect
